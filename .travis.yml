@@ -6,6 +6,8 @@ os:
 
 node_js:
   - "6.10"
+  - "8"
+  - "9"
 
 addons:
   apt:
